@@ -5,16 +5,6 @@ import ML
 import Database
 import numpy as np
 
-
-def get_samples(path_files, quality):
-    all_data = []
-    ans = []
-    for filename in os.listdir(path_files):
-        all_data.append(np.loadtxt(path_files + filename))
-        ans.append(quality)
-    return [all_data, ans]
-
-
 def analysis(path, retry=False):
     data = np.loadtxt(path)
     if retry:
