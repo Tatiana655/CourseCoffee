@@ -8,6 +8,7 @@ The data set contains time series recorded by the electronic E-Nose system for t
 Dataset: https://data.mendeley.com/datasets/7spd6fpvyk/1 (Dataset: Electronic Nose for Quality Control of Colombian Coffee through the Detection of Defects in “Cup Tests”) 
 
 ## Module architecture
+
 ![Human](https://user-images.githubusercontent.com/114859682/233766875-3c2723e6-f892-4c2c-ac70-7569a47be3f5.png)
 
 ## Metrics for tracking the operation of the system
