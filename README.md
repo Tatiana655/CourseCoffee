@@ -12,10 +12,9 @@ Dataset: https://data.mendeley.com/datasets/7spd6fpvyk/1 (Dataset: Electronic No
 ![Human](https://user-images.githubusercontent.com/114859682/233766875-3c2723e6-f892-4c2c-ac70-7569a47be3f5.png)
 
 ## Metrics for tracking the operation of the system
-1. Maximum probability
-&nbsp;
+1. Maximum probability\
 ![max](https://github.com/Tatiana655/CourseCoffee/assets/114859682/0fb29591-b831-4c5b-b809-7fa406836e0e)
-2. Minimum difference between probabilities
+2. Minimum difference between probabilities\
 ![min](https://github.com/Tatiana655/CourseCoffee/assets/114859682/107c816c-fca3-428b-8986-6896df3bb2c3)
-3. Average change in maximum probabilities
+3. Average change in maximum probabilities\
 ![sum](https://github.com/Tatiana655/CourseCoffee/assets/114859682/cbf550bd-bd40-482f-9d21-c099294c9c7c)
