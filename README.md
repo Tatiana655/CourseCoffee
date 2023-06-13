@@ -13,7 +13,7 @@ Dataset: https://data.mendeley.com/datasets/7spd6fpvyk/1 (Dataset: Electronic No
 
 ## Metrics for tracking the operation of the system
 1. Maximum probability
-&nbsp
+&nbsp;
 ![max](https://github.com/Tatiana655/CourseCoffee/assets/114859682/0fb29591-b831-4c5b-b809-7fa406836e0e)
 2. Minimum difference between probabilities
 ![min](https://github.com/Tatiana655/CourseCoffee/assets/114859682/107c816c-fca3-428b-8986-6896df3bb2c3)
